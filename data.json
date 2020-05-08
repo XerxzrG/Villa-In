@@ -1,0 +1,122 @@
+[
+    {
+        "id":"Medium Villa",
+        "price" : "Rp500.000/per night",
+        "adults" : "1-5",
+        "categories" : "Single",
+        "facilities" : "Refrigerator, Cooking place,TV, Telephone, Swimming pool,Bathroom, a gathering place",
+        "size" : "500m2",
+        "type" : "Four bed",
+        "image" : "img_01.jpg"
+    },
+    {
+        "id": "Family Villa",
+        "price": "Rp1.000.000/per night",
+        "adults" : "1-10",
+        "categories" : "Single",
+        "facilities" : "Cooking place,Wardrobe, TV, Telephone, Swimming pool, Bathroom, a gathering place Grill.",
+        "size" : "750m2",
+        "type" : "Five bed",
+        "image" : "img_0001.jpg"
+    },
+    {
+        "id": "VIP Villa",
+        "price": "Rp5.000.000/per night",
+        "adults" : "1-10",
+        "categories" : "Single",
+        "facilities" : "Cooking place,Luxury Room, Private swimming pool, Bathroom, a gathering place Grill&Meat.",
+        "size" : "1000m2",
+        "type" : "Six bed",
+        "image" : "img_000001.jpg"
+    },
+    {
+        "id": "Cheap Villa",
+        "price": "Rp200.000/per night",
+        "adults" : "1-3",
+        "categories" : "Single",
+        "facilities" : "Refrigerator, Cooking place,TV, Telephone, Swimming pool,Bathroom, a gathering place",
+        "size" : "300m2",
+        "type" : "Two bed",
+        "image" : "img_00001.jpg"
+    },
+    {
+        "id":"Medium Villa",
+        "price" : "Rp500.000/per night",
+        "adults" : "1-5",
+        "categories" : "Single",
+        "facilities" : "Refrigerator, Cooking place,TV, Telephone, Swimming pool,Bathroom, a gathering place",
+        "size" : "500m2",
+        "type" : "Four bed",
+        "image" : "img_01.jpg"
+    },
+    {
+        "id": "Family Villa",
+        "price": "Rp1.000.000/per night",
+        "adults" : "1-10",
+        "categories" : "Single",
+        "facilities" : "Cooking place,Wardrobe, TV, Telephone, Swimming pool, Bathroom, a gathering place Grill.",
+        "size" : "750m2",
+        "type" : "Five bed",
+        "image" : "img_0001.jpg"
+    },
+    {
+        "id": "Cheap Villa",
+        "price": "Rp200.000/per night",
+        "adults" : "1-3",
+        "categories" : "Single",
+        "facilities" : "Refrigerator, Cooking place,TV, Telephone, Swimming pool,Bathroom, a gathering place",
+        "size" : "300m2",
+        "type" : "Two bed",
+        "image" : "img_00001.jpg"
+    },
+    {
+        "id": "Premium Villa",
+        "price": "Rp3.000.000/per night",
+        "adults" : "1-15",
+        "categories" : "Single",
+        "facilities" : "Cooking place,Wardrobe, TV, Telephone, Swimming pool, Bathroom, a gathering place Grill&Meat.",
+        "size" : "1000m2",
+        "type" : "Five bed",
+        "image" : "img_001.jpg"
+    },
+    {
+        "id": "VIP Villa",
+        "price": "Rp5.000.000/per night",
+        "adults" : "1-10",
+        "categories" : "Single",
+        "facilities" : "Cooking place,Luxury Room, Private swimming pool, Bathroom, a gathering place Grill&Meat.",
+        "size" : "1000m2",
+        "type" : "Six bed",
+        "image" : "img_000001.jpg"
+    },
+    {
+        "id": "Cheap Villa",
+        "price": "Rp200.000/per night",
+        "adults" : "1-3",
+        "categories" : "Single",
+        "facilities" : "Refrigerator, Cooking place,TV, Telephone, Swimming pool,Bathroom, a gathering place",
+        "size" : "300m2",
+        "type" : "Two bed",
+        "image" : "img_00001.jpg"
+    },
+    {
+        "id": "Family Villa",
+        "price": "Rp1.000.000/per night",
+        "adults" : "1-10",
+        "categories" : "Single",
+        "facilities" : "Cooking place,Wardrobe, TV, Telephone, Swimming pool, Bathroom, a gathering place Grill.",
+        "size" : "750m2",
+        "type" : "Five bed",
+        "image" : "img_0001.jpg"
+    },
+    {
+        "id": "Cheap Villa",
+        "price": "Rp200.000/per night",
+        "adults" : "1-3",
+        "categories" : "Single",
+        "facilities" : "Refrigerator, Cooking place,TV, Telephone, Swimming pool,Bathroom, a gathering place",
+        "size" : "300m2",
+        "type" : "Two bed",
+        "image" : "img_00001.jpg"
+    }
+]
